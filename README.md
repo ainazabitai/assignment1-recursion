@@ -27,4 +27,5 @@ Task 8. I wrote a recursive function to verify if a string contains only digits.
 Task 9. I implemented a recursive method to count the number of characters in a string. Each recursive call processes one character. The total count is printed.
 <img width="1540" height="873" alt="image" src="https://github.com/user-attachments/assets/e4bf3f73-f356-4092-bec4-3fb6a6090ae0" />
 Task 10. I implemented the Euclidean algorithm using recursion to find the GCD of two numbers. The function repeatedly applies a % b until b becomes zero. The result is printed.
-Summery: In this assignment, I implemented multiple problems using recursion in Java to strengthen my understanding of recursive algorithms and problem-solving techniques.
+
+Summary: In this assignment, I implemented multiple problems using recursion in Java to strengthen my understanding of recursive algorithms and problem-solving techniques.
